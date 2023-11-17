@@ -1,6 +1,6 @@
 # ML Teaching ChatBot with ChainLit, LangChain, Hugging Face Hub, and Falcon 4B Instruct
 
-Welcome to the ML Teaching ChatBot project! This chatbot is designed to assist users in learning machine learning concepts using advanced technologies such as ChainLit for conversation management, LangChain for language understanding, Hugging Face Hub for model deployment, and Falcon 4B Instruct for large language models. 🤖📚
+Welcome to the ML Teaching ChatBot project! This chatbot is designed to assist users in learning machine learning concepts using advanced technologies such as ChainLit for making the chat like interface, LangChain, Hugging Face Hub for model deployment, and Falcon 4B Instruct as the large language model. 🤖📚
 
 ## Overview 📖
 
