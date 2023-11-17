@@ -21,12 +21,9 @@ This ChatBot serves as an interactive teacher for machine learning topics. It le
 
 ## Project Structure 📂
 
-- **chatbot.py**: Main script for running the ML Teaching ChatBot.
-- **chainlit**: Folder containing ChainLit configuration and conversation management scripts.
-- **langchain**: Folder with LangChain components for language understanding.
-- **huggingface**: Folder for Hugging Face Hub integration and model loading.
-- **falcon_4b_instruct**: Folder for Falcon 4B Instruct model-related scripts.
-- **chat_memory.py**: Module handling chat memory functionalities.
-- **requirements.txt**: List of Python packages required for the project.
+- **.env**: For storing the environment variable Hugging Face API Token
+- **langchain_llm.ipynb**: Notebook file showcasing the implementation of langchain and hugging face hub
+- **app.py**: Project code
+
 
 Embark on a machine learning journey with our ML Teaching ChatBot! If you have any questions or feedback, don't hesitate to reach out. Happy learning! 🤖🎓
